@@ -1,0 +1,29 @@
+.background{
+    background-color: rgb(152, 198, 219);
+}
+
+.text-clr{
+    color: rgb(255, 255, 255);
+    margin-top: 2mm;
+}
+
+.titles-clr{
+    color: rgb(15, 40, 122);
+}
+
+.button-style{
+    background-color: rgb(15, 40, 122);
+    border-radius: 2mm;
+    border-color: none;
+    height: 8mm;
+    margin-top: 2mm;
+}
+
+.box-style{
+    background-color: rgb(255, 255, 255);
+    border-radius: 2mm;
+    border-color: rgb(15, 40, 122);
+    height: 8mm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+}
